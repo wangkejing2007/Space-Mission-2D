@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
+//呼叫物件
 public class GF1 : MonoBehaviour
 {
     public GameObject E1;
