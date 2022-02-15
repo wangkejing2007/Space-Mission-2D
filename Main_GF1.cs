@@ -7,9 +7,9 @@ using UnityEngine.UI;
 //呼叫物件
 public class GF1 : MonoBehaviour
 {
-    public GameObject E1;
-    public GameObject E2;
-    public GameObject E3;
+    public GameObject E1; //解釋E1物件是什麼？
+    public GameObject E2; //解釋E2物件是什麼？
+    public GameObject E3; //解釋E3物件是什麼？
     public float M1time;
     public float M2time;
     public float M3time;
