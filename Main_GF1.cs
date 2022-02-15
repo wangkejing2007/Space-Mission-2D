@@ -1,3 +1,4 @@
+//主程式開始
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
